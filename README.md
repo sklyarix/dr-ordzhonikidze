@@ -3,9 +3,6 @@
 
 ## Верстка
 ---
-
-## Верстка
----
 ### Список №1 (с числами)
 ![Отображени Список №1](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-1.png)
 ```html
