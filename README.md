@@ -7,7 +7,7 @@
 ## Верстка
 ---
 ### Список №1 (с числами)
-
+![Отображени Список №1](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-1.png)
 ```html
 <ol class="accordion-content-list accordion-content-list--number">
   <li><div class="heading-3 blue">степень:</div> <p>Экстракция зубов с небольшой подвижностью, обычно выполняется довольно быстро.</p></li>
@@ -17,6 +17,7 @@
 ```
 
 ### Список №2
+![Отображени Список №2](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-2.png)
 ```html
 <ul class="list-marked">
 <li>Рентгеновское исследование. Врач должен иметь более полное представление о корнях, чтобы верно спланировать процедуру. </li>
@@ -28,6 +29,7 @@
 ```
 
 ### Cписок №3 (с числами)
+![Отображени Список №3](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-3.png)
 ```html
 <ol class="accordion-content-list accordion-content-list--number">
     <li><div class="heading-3 blue">Первичная консультация.</div><p>Врач проводит осмотр полости рта, чтобы оценить состояние зубов, слизистой и десен. Тщательно собирает анамнез, узнавая об имеющихся у пациента хронических заболеваниях, жалобах, вредных привычках, принимаемых лекарственных средствах. Сообщает о возможных вариантах лечения и его сроках. Если у пациента есть патологии, которые могут спровоцировать осложнения после протезирования по системе All-on-4, стоматолог направляет на консультацию к профильному врачу.</p></li>
@@ -40,6 +42,7 @@
 ```
 
 ### Список №4 
+![Отображени Список №3](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-4.png)
 ```html
 <ul class="list-marked">
     <li><div class="heading-4 blue">Временный (адаптационный) протез</div>
@@ -52,6 +55,7 @@
 ```
 
 ### Список №5 (колонки)
+![Отображени Список №3](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-5.png)
 ```html
     <ul class="list-marked list-marked-col">
     <li><div class="list-title">Идеальная улыбка за несколько часов</div><div class="list-descr">Новые зубы могут фиксироваться сразу в день установки имплантатов или в течение последующей недели.</div></li>
