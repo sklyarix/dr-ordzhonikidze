@@ -89,6 +89,21 @@
     <li><div class="list-title">Идеальная улыбка за несколько часов</div><div class="list-descr">Новые зубы могут фиксироваться сразу в день установки имплантатов или в течение последующей недели.</div></li>
     </ul>
 ```
+### Список №6 (с числами цветные + возможность сделать цифры жирнее)
+![Отображени Список №3](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-6.png)
+Список числовой с голубыми цифрами класс list-marked--number, если цифры нужны сделать жирнее то нужно дописать list-marked--number-bold
+```html
+<ol class="list-marked--number list-marked--number-bold">
+  <li>Mix flour, baking powder, sugar, and salt.</li>
+  <li>In another bowl, mix eggs, milk, and oil.</li>
+  <li>Stir both mixtures together.</li>
+  <li>Fill muffin tray 3/4 full.</li>
+  <li>Bake for 20 minutes.</li>
+</ol>
+```
+
+
+
 ### Таблица №1
 ![Отображени Таблица №1](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/table-1.png)
 ```html
