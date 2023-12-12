@@ -91,6 +91,7 @@
 ```
 ### Список №6 (с числами цветные + возможность сделать цифры жирнее)
 ![Отображени Список №3](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/list-6.png)
+
 Список числовой с голубыми цифрами класс list-marked--number, если цифры нужны сделать жирнее то нужно дописать list-marked--number-bold
 ```html
 <ol class="list-marked--number list-marked--number-bold">
