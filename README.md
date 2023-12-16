@@ -108,6 +108,7 @@
 ### Таблица №1
 ![Отображени Таблица №1](https://github.com/sklyarix/dr-ordzhonikidze/raw/main/assets/img/readme/table-1.png)
 ```html
+<div class="overflow-scroll">
     <table>
   <tbody>
   <tr>
@@ -165,4 +166,5 @@
   </tr>
   </tbody>
 </table>
+</div>
 ```
